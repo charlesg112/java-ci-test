@@ -177,6 +177,7 @@
             </plugin>
 
             <plugin>
+                <!-- from https://maven.apache.org/plugins/maven-checkstyle-plugin/examples/upgrading-checkstyle.html-->
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>3.1.2</version>
