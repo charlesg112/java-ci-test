@@ -9,6 +9,6 @@ class RandomClassTest {
     public void shouldReturn3() {
         RandomClass random = new RandomClass();
 
-        assertEquals(random.Get___Number(), 3);
+        assertEquals(random.getNumber(), 3);
     }
 }
