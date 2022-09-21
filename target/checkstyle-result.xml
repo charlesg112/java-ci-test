@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="9.3">
 <file name="C:\Users\Charles-Antoine\Documents\Uni\Session 7\Architecture logicielle\tests\java-ci-test-2\src\main\java\org\example\RandomClass.java">
-<error line="4" column="19" severity="error" message="Member name &apos;testCase___LMAO&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
+<error line="4" column="19" severity="error" message="Member name &apos;ASDASDASDA___ASDUIASDHUASUDH&apos; must match pattern &apos;^[a-z][a-z0-9][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck"/>
 </file>
 </checkstyle>
